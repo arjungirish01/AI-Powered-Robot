@@ -27,7 +27,15 @@ Designed specifically to assist visually impaired individuals, the robot acts as
    ```bash
    cd ~/ros2_ws/src
    git clone https://github.com/arjungirish01/AI-Powered-Robot.git
-
+   
+2. Install Dependencies
+      rosdep install --ignore-src --from-paths src -y -r
+      vcs import --recursive src --skip-existing --input src/webots_ros2_spot/webots_ros2_spot.repos
+      chmod +x src/webots_ros2/webots_ros2_driver/webots_ros2_driver/ros2_supervisor.py
+3. Build Packages
+      colcon build --symlink-install
+      source install/setup.bash
+   
 ## Usage
 
     Activate the robot using the configured wake-up word.

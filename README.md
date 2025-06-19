@@ -29,10 +29,12 @@ Designed specifically to assist visually impaired individuals, the robot acts as
    git clone https://github.com/arjungirish01/AI-Powered-Robot.git
    
 2. Install Dependencies
+      ```bash
       rosdep install --ignore-src --from-paths src -y -r
       vcs import --recursive src --skip-existing --input src/webots_ros2_spot/webots_ros2_spot.repos
       chmod +x src/webots_ros2/webots_ros2_driver/webots_ros2_driver/ros2_supervisor.py
-3. Build Packages
+4. Build Packages
+      ```bash
       colcon build --symlink-install
       source install/setup.bash
    

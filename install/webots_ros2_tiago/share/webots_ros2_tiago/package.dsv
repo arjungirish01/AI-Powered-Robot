@@ -1,0 +1,9 @@
+source;share/webots_ros2_tiago/hook/pythonpath.ps1
+source;share/webots_ros2_tiago/hook/pythonpath.dsv
+source;share/webots_ros2_tiago/hook/pythonpath.sh
+source;share/webots_ros2_tiago/hook/ament_prefix_path.ps1
+source;share/webots_ros2_tiago/hook/ament_prefix_path.dsv
+source;share/webots_ros2_tiago/hook/ament_prefix_path.sh
+source;../../build/webots_ros2_tiago/share/webots_ros2_tiago/hook/pythonpath_develop.ps1
+source;../../build/webots_ros2_tiago/share/webots_ros2_tiago/hook/pythonpath_develop.dsv
+source;../../build/webots_ros2_tiago/share/webots_ros2_tiago/hook/pythonpath_develop.sh

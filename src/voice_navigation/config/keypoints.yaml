@@ -1,0 +1,8 @@
+kitchen:
+  position: [1.0, 2.0, 0.0]
+  orientation: [0.0, 0.0, 0.0, 1.0]
+
+bedroom:
+  position: [13.5, -1.2, 0.0]
+  orientation: [0.0, 0.0, 0.707, 0.707]
+

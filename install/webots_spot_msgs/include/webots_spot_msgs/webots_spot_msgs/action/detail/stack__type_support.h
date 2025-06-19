@@ -1,0 +1,1 @@
+/home/arjun/ros2_ws/build/webots_spot_msgs/rosidl_generator_c/webots_spot_msgs/action/detail/stack__type_support.h

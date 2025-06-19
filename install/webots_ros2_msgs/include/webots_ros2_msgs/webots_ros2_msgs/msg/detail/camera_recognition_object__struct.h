@@ -1,0 +1,1 @@
+/home/arjun/ros2_ws/build/webots_ros2_msgs/rosidl_generator_c/webots_ros2_msgs/msg/detail/camera_recognition_object__struct.h

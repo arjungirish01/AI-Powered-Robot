@@ -1,0 +1,9 @@
+source;share/webots_ros2_epuck/hook/pythonpath.ps1
+source;share/webots_ros2_epuck/hook/pythonpath.dsv
+source;share/webots_ros2_epuck/hook/pythonpath.sh
+source;share/webots_ros2_epuck/hook/ament_prefix_path.ps1
+source;share/webots_ros2_epuck/hook/ament_prefix_path.dsv
+source;share/webots_ros2_epuck/hook/ament_prefix_path.sh
+source;../../build/webots_ros2_epuck/share/webots_ros2_epuck/hook/pythonpath_develop.ps1
+source;../../build/webots_ros2_epuck/share/webots_ros2_epuck/hook/pythonpath_develop.dsv
+source;../../build/webots_ros2_epuck/share/webots_ros2_epuck/hook/pythonpath_develop.sh
